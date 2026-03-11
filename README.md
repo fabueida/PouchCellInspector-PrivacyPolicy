@@ -19,8 +19,6 @@ Pouch Cell Inspector is a tool for visual inspection and review of lithium-ion p
 - Review inspection and analysis results generated on the device
 - Enter notes or observations
 - Adjust preferences such as speech output, appearance, haptics, and photo-saving behavior
-- Contact the app team for support, feedback, or questions
-
 The core functionality of the app is designed to operate locally on your device.
 
 ## Accessibility
