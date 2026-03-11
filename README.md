@@ -10,7 +10,7 @@ The app is also designed with accessibility in mind, including support for users
 
 This Privacy Policy explains how information is handled when you use our application.
 
-This app was conducted as part of a research project at the University of Michigan Dearborn, designed to support engineers, educators, and enthusiast who are interested in learning about pouch cells
+This app was conducted as part of a research project at the University of Michigan Dearborn, designed to support engineers, educators, visually impaired users, and enthusiast who are interested in learning about pouch cells
 
 ## Overview of the Application
 
