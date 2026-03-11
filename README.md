@@ -8,7 +8,9 @@ Pouch Cell Inspector is a mobile application designed to support the visual insp
 
 The app is also designed with accessibility in mind, including support for users who are visually impaired or have low vision through features such as speech output, adjustable appearance settings, and haptic feedback.
 
-This Privacy Policy explains how information is handled when you use the application.
+This Privacy Policy explains how information is handled when you use our application.
+
+This app was conducted as part of a research project at the University of Michigan Dearborn, designed to support engineers, educators, and enthusiast who are interested in learning about pouch cells
 
 ## Overview of the Application
 
