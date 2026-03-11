@@ -19,7 +19,6 @@ Pouch Cell Inspector is a tool for visual inspection and review of lithium-ion p
 - Use the device camera to inspect or review pouch cells
 - Capture images for inspection and analysis
 - Review inspection and analysis results generated on the device
-- Enter notes or observations
 - Adjust preferences such as speech output, appearance, haptics, and photo-saving behavior
 
 
