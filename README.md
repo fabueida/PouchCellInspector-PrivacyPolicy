@@ -6,7 +6,7 @@
 
 Pouch Cell Inspector is a mobile application designed to support the visual inspection of lithium-ion pouch cells. The app allows users to inspect pouch cells using their device camera, review inspection results, and use on-device analysis tools to assist with evaluation.
 
-The app is also designed with accessibility in mind, including support for users who are visually impaired or have low vision through features such as speech output, adjustable appearance settings, and haptic feedback.
+This application is also designed with accessibility in mind, including support for users who are visually impaired or have low vision through features such as speech output, adjustable appearance settings, and haptic feedback.
 
 This Privacy Policy explains how information is handled when you use our application.
 
@@ -33,7 +33,7 @@ Pouch Cell Inspector is designed to improve usability for a broad range of users
 - Haptic feedback to support non-visual interaction
 - Compatibility with device-level accessibility features provided by iOS
 
-These features are intended to help users interact with the app more effectively while keeping app activity and processing on the device.
+These features are intended to help users interact with the application more effectively while keeping app activity and processing on the device.
 
 ## Information We Collect
 
@@ -43,7 +43,6 @@ In general, the app does **not** collect or send to us:
 
 - Photos or inspection images
 - Inspection results
-- Notes entered by the user
 - Machine learning analysis results
 - Usage analytics
 - Advertising identifiers
