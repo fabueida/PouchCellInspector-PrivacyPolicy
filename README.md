@@ -1,6 +1,6 @@
 # Privacy Policy for Pouch Cell Inspector
 
-**Last Updated:** March 10, 2026
+**Last Updated:** April 8, 2026
 
 ## Introduction
 
@@ -52,7 +52,11 @@ In general, the app does **not** collect or send to us:
 - Audio recordings
 - Cloud backups created by the app itself
 
-Information generated while using the app remains on the user's device unless the user explicitly chooses to save, export, or share it.
+Information generated while using the app remains on the user's device unless the user explicitly chooses to save, export, or share it. Pouch Cell Inspecter may keep previously scanned classifications locally on your device so you can review earlier inspection outcomes inside the app.
+
+This is different from the optional “Save to Photos” feature. If you enable that setting, captured images may be saved to your personal Photos library on your device. If that setting remains off, the app will not automatically save captured images to Photos.
+
+In both cases, the information remains under your control on your device, and we do not collect it as user data for remote storage, advertising, or sale.
 
 ## Images, Photo Library Access, and Saving Behavior
 
